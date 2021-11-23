@@ -9,10 +9,10 @@
       <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
         <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
           <li class="nav-item">
-            <router-link to="/" class="nav-link">Home</router-link> 
+            <router-link to="/home" class="nav-link">Home</router-link> 
           </li>
           <li class="nav-item">
-            <router-link to="/about" class="nav-link">About</router-link>
+            <router-link to="/" class="nav-link">Accueil</router-link>
           </li>
         </ul>
         <form class="form-inline my-2 my-lg-0">
